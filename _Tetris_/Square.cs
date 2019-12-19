@@ -19,6 +19,7 @@ namespace _Tetris_
         {
             this.flag = flag;
             this.color = color;
+            fagbergbarfgbv
         }
 
         public bool Flag
